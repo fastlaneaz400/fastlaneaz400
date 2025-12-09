@@ -1,0 +1,3 @@
+[submodule "Instructions"]
+	path = Instructions
+	url = https://github.com/schuerstedt/mslearn-devops
